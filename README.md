@@ -1,3 +1,7 @@
 #7154 - Brandon Tierney - 10084373
 
-What is the project. 
+The project is a 2 part project. 
+
+Part A – Human-Guided Model Design
+
+Part B - Part B – AI-Assisted Model Design
